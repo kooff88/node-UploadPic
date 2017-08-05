@@ -1,0 +1,12 @@
+
+node_modules/*
+log/*
+assets/*
+
+.DS_Store
+*.log
+*.pid
+*.swp
+*.vim
+.vscode
+
